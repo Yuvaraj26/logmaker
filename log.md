@@ -2,7 +2,7 @@
 
 *Main Commitment*:
 
-I will code in **Python** programming language for at least an hour every day for the next 100 days.
+I will code in **Selenium** Framework for at least an hour every day for the next 100 days.
 
 Start Date: January 02, 2020
 End Date (without any breaks): April 11, 2020
@@ -26,12 +26,12 @@ End Date (without any breaks): April 11, 2020
 
 ### Day 1: January, 02, 2020
 
-**Today's Progress**:
+**Today's Progress**: Starting by going through udemy video and practising in parallel with eclipse IDE
 
 **Thoughts:**
 
 **Link(s) to work**
-[Example](http://www.example.com)
+[Example] https://www.business.udemy.com
 
 [Back Top](#days)
 
