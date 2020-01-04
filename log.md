@@ -38,7 +38,7 @@ End Date (without any breaks): April 11, 2020
 ----
 ### Day 2: January, 03, 2020
 
-**Today's Progress**:
+**Today's Progress**:No Progress
 
 **Thoughts:**
 
